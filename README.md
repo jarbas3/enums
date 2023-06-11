@@ -1,0 +1,1 @@
+# Aula sobre enums (enumerações).
